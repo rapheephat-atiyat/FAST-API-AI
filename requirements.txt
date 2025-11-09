@@ -1,0 +1,9 @@
+fastapi
+gunicorn
+uvicorn
+python-multipart
+tensorflow
+numpy
+pillow
+requests
+pydantic
